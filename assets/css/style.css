@@ -157,7 +157,7 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
     width: 100%;
     height: 100vh;
-    background: url(/assets/images/intro/Daisy_01.jpg) center no-repeat;
+    background: url(./assets/images/intro/Daisy_01.jpg) center no-repeat;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -243,7 +243,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .section--join {
-    background: url(/assets/images/join-us/join-us\ bg.jpg) no-repeat;
+    background: url(./assets/images/join-us/join-us\ bg.jpg) no-repeat;
     background-size: cover;
     height: 576px;
     width: 100%;
@@ -254,7 +254,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .section--map {
-    background: url(/assets/images/map/Daisy_06.jpg) no-repeat;
+    background: url(./assets/images/map/Daisy_06.jpg) no-repeat;
     background-size: cover;
     height: 336px;
     position: relative;
@@ -756,7 +756,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Footer */
 
 .footer {
-    background: url(/assets/images/footer/bg.jpg) no-repeat;
+    background: url(./assets/images/footer/bg.jpg) no-repeat;
     background-size: cover;
     height: 210px;
 }
